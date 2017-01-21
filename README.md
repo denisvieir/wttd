@@ -1,6 +1,6 @@
 # Eventex
 
-Sistemas de envetos encomendado pela Morena.
+Sistemas de eventos encomendado pela Morena.
 
 ## Como desenvolver ?
 
